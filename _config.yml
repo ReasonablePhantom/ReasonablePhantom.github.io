@@ -107,3 +107,7 @@ friends: [
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     }
 ]
+
+# Include extra directories from the build
+include:
+  - notes
